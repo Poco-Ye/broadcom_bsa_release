@@ -15,3 +15,6 @@ buildroot/package/rockchip
 其它linux的sdk都是有bsa的编译目录，还有一些工具目录
 
 但可能没有源码，需要去3308拿
+
+
+给客户直接给release链接：https://pan.baidu.com/s/1bOlhpYp6BOUSQQU9cUqh9A  提取码：9rpp
